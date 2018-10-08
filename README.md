@@ -1,2 +1,2 @@
-# refreshkata
+# Refreshkata
 Refreshkata inspired by Codekata.com - compilation of some interesting coding problem
