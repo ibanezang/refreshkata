@@ -1,5 +1,5 @@
 # Refreshkata
-Refreshkata inspired by Codekata.com - compilation of some interesting coding problems
+Refreshkata inspired by [Codekata.com](http://codekata.com) - compilation of some interesting coding problems
 
 ## From Codekata.com
 
