@@ -15,4 +15,4 @@ As a group, software developers don’t practice enough. Most of our learning ta
 > There are no right or wrong answers in these kata: the benefit comes from the process, not from the result.
 
 ## How does Refreshkata work
-If you're familiar with codekata, it will be straight forward. There will be several coding problems will be listed in this repository. The coding problems are sometimes related to algorithm, data structure, and software modelling problems. You can fork this repository and do your exercise in your own fork. It is suggested to revisit the problem to refresh your skill and to see how you have improved overtime.
+If you're familiar with codekata, it will be straight forward. There will be several coding problems listed in this repository. The coding problems are sometimes related to algorithm, data structure, and software modelling problems. You can fork this repository and do your exercise in your own fork. It is suggested to revisit the problem to refresh your skill and to see how you have improved overtime.
