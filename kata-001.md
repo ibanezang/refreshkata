@@ -22,4 +22,4 @@ The goal of this kata is to practice a looser style of experimental modelling. L
 
 
 
-Note: Taken from [Codekata.com](http://codekata.com)
+Note: Taken from [Codekata.com](http://codekata.com/kata/kata01-supermarket-pricing/)
