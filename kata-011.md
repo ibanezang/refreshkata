@@ -19,7 +19,7 @@ rack.add(30)
 assert_equal([ 10, 20, 30 ], rack.balls)
 ```
 
-Sorting Characters
+# Sorting Characters
 Our resident conspiracy expert, Dr. X, is looking for hidden messages in the collected publications of Hugh Hefner. Dr. X believes the message is hidden in the individual letters, so rather than get distracted by the words, he’s asked us to write a program to take a block of text and return the letters it contains, sorted. Given the text:
 
 ```
